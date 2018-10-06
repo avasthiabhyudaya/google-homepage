@@ -1,0 +1,31 @@
+Img
+{position: relative;
+Top: 200px;
+Left: 400px;
+}
+input
+{position: relative;
+Top: 200px;
+left: 400px;
+
+}
+.searchbox
+{Display: block;
+Width: 500px;
+position: relative;
+Top: 200px;
+left: 400px;
+Display: block;
+}
+.topright
+{position: absolute;
+Top: 0;
+Right: 0;
+Display: inline;
+}
+.languages
+{
+position: relative;
+Top: 200px;
+left: 400px;
+}
